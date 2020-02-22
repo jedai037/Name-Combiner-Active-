@@ -256,6 +256,7 @@
     top: 874px;
     vertical-align: middle;
 }
+
 /* Убираем стандартный маркер Chrome */
 details summary::-webkit-details-marker {
 display: none
@@ -274,6 +275,9 @@ summary {
     letter-spacing: 0.03em;
 
     color: #8E96B7;
+}
+summary:focus {
+    outline: 0;
 }
 p {
     position: absolute;
