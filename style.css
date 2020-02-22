@@ -1,0 +1,579 @@
+.first-block {
+    position: absolute;
+    width: 1440px;
+    height: 944px;
+    left: 0px;
+    top: 0px;
+}
+.cloud1 {
+    position: absolute;
+    width: 108px;
+    height: 62px;
+    left: 332px;
+    top: 79px;
+}
+.cloud2 {
+    position: absolute;
+    width: 116px;
+    height: 62px;
+    left: 1129px;
+    top: 149px;
+}
+.welcome-sign {
+    position: absolute;
+    width: 149px;
+    height: 12px;
+    left: 645px;
+    top: 112px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #3D4F9F;
+}
+.name-combiner {
+    position: absolute;
+    width: 366px;
+    height: 60px;
+    left: 537px;
+    top: 140px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 60px;
+    white-space: nowrap;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #3D4F9F;
+}
+.blog {
+    position: absolute;
+    width: 958px;
+    height: 1636px;
+    left: 241px;
+    top: 303px;
+
+    background: #FFFFFF;
+    border: 1px solid #D8E3FE;
+    box-sizing: border-box;
+    box-shadow: 0px 15px 50px #EFF4FF;
+}
+.enter-up {
+    position: absolute;
+    width: 396px;
+    height: 45px;
+    left: 281px;
+    top: 57px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 45px;
+    white-space: nowrap;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #3D4F9F;
+}
+.names-1 {
+    position: absolute;
+    width: 279px;
+    height: 59px;
+    left: 418px;
+    top: 463px;
+
+    background: #F5F8FF;
+    border-radius: 5px;
+}
+.names-2 {
+    position: absolute;
+    width: 279px;
+    height: 59px;
+    left: 743px;
+    top: 463px;
+
+    background: #F5F8FF;
+    border-radius: 5px;
+}
+.names-3 {
+    position: absolute;
+    width: 279px;
+    height: 59px;
+    left: 418px;
+    top: 566px;
+
+    background: #F5F8FF;
+    border-radius: 5px;
+}
+.names-4 {
+    position: absolute;
+    width: 279px;
+    height: 59px;
+    left: 743px;
+    top: 566px;
+
+    background: #F5F8FF;
+    border-radius: 5px;
+}
+.names-input {
+    position: absolute;
+    width: 146px;
+    height: 17px;
+    top: 20px;
+    left: 20px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    border: none;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+
+    color: #7A85AD;
+    background: #F5F8FF;
+}
+.clear {
+    position: absolute;
+    width: 113px;
+    height: 43px;
+    left: 551px;
+    top: 698px;
+
+    background: #FFD7D7;
+    border-radius: 2px;
+}
+.clear-text {
+    position: absolute;
+    width: 82px;
+    height: 17px;
+    left: 37px;
+    top: 11px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #D43F3F;
+}
+.line1 {
+    position: absolute;
+    width: 15px;
+    height: 0px;
+    left: 744px;
+    top: 720px;
+
+    border: 1px solid #DAE4FE;
+
+}
+.or {
+    position: absolute;
+    width: 16px;
+    height: 20px;
+    left: 712px;
+    top: 710px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #ADB3CB;
+}
+.line2 {
+    position: absolute;
+    width: 15px;
+    height: 0px;
+    left: 680px;
+    top: 720px;
+
+    border: 1px solid #DAE4FE;
+}
+.combine {
+    position: absolute;
+    width: 113px;
+    height: 43px;
+    left: 775px;
+    top: 698px;
+
+    background: #D2E1FF;
+    border-radius: 2px;
+}
+.combine-text {
+    position: absolute;
+    width: 82px;
+    height: 17px;
+    left: 30px;
+    top: 11px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #3A79FF;
+}
+.active-block {
+    position: relative;
+    width: 743px;
+    height: 982px;
+    left: 349px;
+    top: 874px;
+    vertical-align: middle;
+}
+/* Убираем стандартный маркер Chrome */
+details summary::-webkit-details-marker {
+display: none
+}
+/* Убираем стандартный маркер Firefox */
+details > summary {
+list-style: none;
+}
+summary {
+    width: 463px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 0.03em;
+
+    color: #8E96B7;
+}
+p {
+    position: absolute;
+    width: 391px;
+    height: 62px;
+    left: 42px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+
+    color: #8D96BD;
+}
+/* Добавляем собственный маркер для закрытого состояния */
+details summary:before {
+    content: '';
+    border: solid #8E96B7;;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-right: 10px;
+}
+details summary {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    cursor: pointer;
+}
+details[open] p {
+    animation: spoiler 1s;
+}
+    @keyframes spoiler {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
+}
+/* Добавляем собственный маркер для открытого состояния */
+details[open] summary:before {
+    content: '';
+    border: solid#495274;
+    border-width: 0 3px 3px 0; 
+    display: inline-block;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    margin-right: 10px;
+}
+.hide-block {
+    width: 743px;
+    height: 55px;
+    left: 24px;
+    padding: 10px;
+
+    border-bottom: 1px solid #D8E3FE;
+}
+.second-block {
+    position: absolute;
+    width: 1439px;
+    height: 438px;
+    left: 9px;
+    top: 2052px;
+    border: 1px solid #D8E3FE;
+    background: #FFFFFF;
+}
+.clouds {
+    position: absolute;
+    width: 114px;
+    height: 100px;
+    left: 101px;
+    top: 252px;
+}
+.clouds1 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 199px;
+}
+.clouds2 {
+    position: absolute;
+    width: 116px;
+    height: 100px;
+    left: 1098px;
+    top: 18px;
+}
+.clouds-block {
+    position: absolute;
+    width: 1201px;
+    height: 293px;
+    left: 101px;
+    top: 1005px;
+}
+.pluses-image-1 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 440px;
+    top: 75px;
+    border-radius: 100%;
+
+    background: #F1F5FF;
+}
+.pluses-1 {
+    position: absolute;
+    width: 113px;
+    height: 25px;
+    left: 420px;
+    top: 165px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #4074F8;
+}
+.pluses-1-sub {
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    left: 410px;
+    top: 225px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #ADB3CB;
+}
+.pluses-image-2 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 690px;
+    top: 75px;
+    border-radius: 100%;
+
+    background: #F1F5FF;
+}
+.pluses-image-gener {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    left: 712px;
+    top: 98px;
+    border-radius: 100%;
+
+    background: #F1F5FF;
+}
+.pluses-2 {
+    position: absolute;
+    width: 134px;
+    height: 25px;
+    left: 657px;
+    top: 163px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #4074F8;
+}
+.pluses-2-sub {
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    left: 654px;
+    top: 223px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #ADB3CB;
+}
+.pluses-image-3 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 942px;
+    top: 75px;
+    border-radius: 100%;
+
+    background: #F1F5FF;
+}
+.pluses-3 {
+    position: absolute;
+    width: 148px;
+    height: 25px;
+    left: 902px;
+    top: 163px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #4074F8;
+}
+.pluses-3-sub {
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    left: 906px;
+    top: 223px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #ADB3CB;
+}
+.social-1 {
+    position: absolute;
+    width: 13.55px;
+    height: 26.44px;
+    left: 618px;
+    top: 305px;
+    transition: background-color linear .5s;
+    border-radius: 30%;
+}
+.social-1:hover {
+    background-color: #6188FF;
+    border-radius: 30%;
+}
+.social-2 {
+    position: absolute;
+    left: 47.64%;
+    right: 50.62%;
+    top: 305px;
+    bottom: 6.48%;
+    transition: background-color linear .5s;
+    border-radius: 30%;
+}
+.social-2:hover {
+    background-color: #6188FF;
+    border-radius: 30%;
+}
+.social-3 {
+    position: absolute;
+    left: 766.56px;
+    top: 305px;
+    border-radius: 30%;
+}
+.social-4 {
+    position: absolute;
+    left: 58.82%;
+    right: 40.18%;
+    top: 305px;
+    bottom: 6.51%;
+    transition: background-color linear .5s;
+    border-radius: 30%;
+}
+.social-4:hover {
+    background-color: #6188FF;
+    border-radius: 30%;
+}
+.footer {
+    position: absolute;
+    width: 205px;
+    height: 15px;
+    left: 645px;
+    top: 2451px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+
+    color: #AEB8D0;
+}
