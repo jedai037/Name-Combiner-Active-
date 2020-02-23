@@ -281,9 +281,11 @@ summary:focus {
 }
 p {
     position: absolute;
-    width: 391px;
-    height: 62px;
+    max-width: 391px;
+    max-height: 62px;
     left: 42px;
+    white-space: pre;
+    overflow-x: hidden;
 
     font-family: Roboto;
     font-style: normal;
@@ -520,12 +522,11 @@ details[open] summary:before {
     height: 26.44px;
     left: 618px;
     top: 305px;
-    transition: background-color linear .5s;
-    border-radius: 30%;
+    opacity: 0.9;
 }
 .social-1:hover {
-    background-color: #6188FF;
-    border-radius: 30%;
+    content: url('images/f-active.png');
+    opacity: 1;
 }
 .social-2 {
     position: absolute;
@@ -533,12 +534,11 @@ details[open] summary:before {
     right: 50.62%;
     top: 305px;
     bottom: 6.48%;
-    transition: background-color linear .5s;
-    border-radius: 30%;
+    opacity: 0.9;
 }
 .social-2:hover {
-    background-color: #6188FF;
-    border-radius: 30%;
+    content: url('images/ino-active.png');
+    opacity: 1;
 }
 .social-3 {
     position: absolute;
@@ -552,12 +552,11 @@ details[open] summary:before {
     right: 40.18%;
     top: 305px;
     bottom: 6.51%;
-    transition: background-color linear .5s;
-    border-radius: 30%;
+    opacity: 0.9;
 }
 .social-4:hover {
-    background-color: #6188FF;
-    border-radius: 30%;
+    content: url('images/t-active.png');
+    opacity: 1;
 }
 .footer {
     position: absolute;
